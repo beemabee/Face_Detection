@@ -43,6 +43,7 @@ Pastikan Anda memiliki perangkat lunak berikut terinstal di sistem Anda:
 ## Struktur Proyek
 
 Berikut adalah struktur direktori dari proyek ini:
+```
 Face_Detection/
 │
 ├── model/
@@ -62,3 +63,4 @@ Face_Detection/
 │
 ├── requirements.txt
 └── README.md
+```
